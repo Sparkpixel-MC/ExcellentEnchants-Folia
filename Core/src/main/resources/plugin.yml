@@ -1,0 +1,13 @@
+main: su.nightexpress.excellentenchants.EnchantsPlugin
+version: '${project.version}'
+name: ExcellentEnchants
+author: NightExpress
+description: 75+ vanilla-like enchantments with seamless integration!
+depend: [ nightcore ]
+softdepend:
+  - ProtocolLib
+  - packetevents
+  - PlaceholderAPI
+  - MythicMobs
+api-version: 1.21
+load: STARTUP
