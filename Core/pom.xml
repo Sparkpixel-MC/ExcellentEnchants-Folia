@@ -34,11 +34,6 @@
         </repository>
 
         <repository>
-            <id>lumine-snapshot</id>
-            <url>https://mvn.lumine.io/repository/maven-snapshots/</url>
-        </repository>
-
-        <repository>
             <id>codemc-releases</id>
             <url>https://repo.codemc.io/repository/maven-releases/</url>
         </repository>
